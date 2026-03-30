@@ -17,7 +17,7 @@
 
 Este paquete de idioma modifica los nombres de los componentes para facilitar la detección y el seguimiento de las estadísticas.
 
-Tambien agrega una serie de mejoras visuales.
+También agrega una serie de mejoras visuales.
 
 * Los contratos que otorgan planos tienen la lista de posibles recompensas añadida al final de la descripción.
 * Prefijos de advertencia para sustancias ilegales. **[!]**
@@ -40,8 +40,8 @@ La descarga esta disponible en <ins>**Ingles**</ins> y en <ins>**Español**</ins
 1. Extrae el archivo ZIP.
 2. Si ya tienes un archivo `user.cfg`, **no lo sobrescribas**. 
     - En su lugar, abre tu `user.cfg` existente y añade la siguiente línea al final:
-    - Para la version en <ins>**ingles**</ins>. `g_language = english`
-    - Para la version en <ins>**__español__**</ins>. `g_language = spanish_(spain)`
+    - Para la versión en <ins>**ingles**</ins>. `g_language = english`
+    - Para la versión en <ins>**__español__**</ins>. `g_language = spanish_(spain)`
     - Guarda el archivo.
 3. Copia la carpeta `data` y el archivo (`user.cfg`) en la raíz de la carpeta LIVE de tu juego.
 4. Inicia el juego.
