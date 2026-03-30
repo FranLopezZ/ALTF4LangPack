@@ -73,7 +73,7 @@ La descarga esta disponible en <ins>**Ingles**</ins> y en <ins>**Español**</ins
 ¿Has encontrado un error o tienes una idea para mejorar?
 
 Abre una incidencia (*issue*).
-O accede a nuestro discord y indicanoslo directamente:
+O accede a nuestro discord y indícanoslo directamente:
 
 [![Discord](https://discord.com/api/guilds/1481294088434221068/widget.png?style=banner4)](https://discord.gg/vUeZwGswUF)
 
