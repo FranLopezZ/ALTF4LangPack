@@ -2,7 +2,7 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/FranLopezZ/ALTF4LangPack)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/FranLopezZ/ALTF4LangPack/total)
-![Discord](https://img.shields.io/discord/1481294088434221068?label=Discord%20ALTF4&color=7289DA)
+[![Discord](https://img.shields.io/discord/1481294088434221068?label=Discord%20ALTF4&color=7289DA)](https://discord.gg/vUeZwGswUF)
 
 
 
