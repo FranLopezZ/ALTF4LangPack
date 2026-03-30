@@ -2,6 +2,7 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/FranLopezZ/ALTF4LangPack)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/FranLopezZ/ALTF4LangPack/total)
+![Discord](https://img.shields.io/discord/1481294088434221068?label=Discord%20ALTF4&color=7289DA)
 
 
 
@@ -72,6 +73,9 @@ La descarga esta disponible en <ins>**Ingles**</ins> y en <ins>**Español**</ins
 ¿Has encontrado un error o tienes una idea para mejorar?
 
 Abre una incidencia (*issue*).
+O accede a nuestro discord y indicanoslo directamente:
+
+[![Discord](https://discord.com/api/guilds/1481294088434221068/widget.png?style=banner4)](https://discord.gg/vUeZwGswUF)
 
 ## ⚠ Importante!!
 
