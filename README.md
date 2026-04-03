@@ -14,8 +14,7 @@
 
 
 ```txt
-                            [Características añadidas]
-
+  [Características añadidas]
 - Los contratos que otorgan planos tienen la lista de posibles recompensas
   añadidas al final de la descripción.
 - Prefijos de advertencia para sustancias ilegales. **[!]**
