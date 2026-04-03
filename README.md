@@ -1,34 +1,33 @@
-# ⚙️ Paquete de Idioma + optimizacion componentes + extras!
+# ⚙️ Paquete de idioma + optimización componentes + extras!
 
-[![GitHub Release](https://img.shields.io/github/v/release/FranLopezZ/ALTF4LangPack)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/FranLopezZ/ALTF4LangPack/total)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
-[![Discord](https://img.shields.io/discord/1481294088434221068?label=Discord%20ALTF4&color=7289DA)](https://discord.gg/vUeZwGswUF)
+[![GitHub Release](https://img.shields.io/github/v/release/FranLopezZ/ALTF4LangPack?logo=github)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/FranLopezZ/ALTF4LangPack/total?logo=rolldown&color=07f713&logoColor=white)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
+[![Discord](https://img.shields.io/discord/1481294088434221068?style=flat&logo=discord&label=Discord&color=%237289DA&logoColor=white)](https://discord.gg/vUeZwGswUF)
 
-
-
-> **🇺🇸 📢 IMPORTANT:** This is a modified fork of the original [CLP by ExoAE](https://github.com/ExoAE/ScCompLangPack).
+> **📢 🇺🇸 IMPORTANT:** This is a modified fork of the original [CLP by ExoAE](https://github.com/ExoAE/ScCompLangPack).
 > **All credit for the original language pack goes to [ExoAE](https://github.com/ExoAE).**
 > This modification was created to provide an alternative compact naming format.
 
-> **🇪s 📢 IMPORTANTE:** Esta es una bifurcación modificada del original. [CLP by ExoAE](https://github.com/ExoAE/ScCompLangPack).
+> **📢 🇪🇸 IMPORTANTE:** Esta es una bifurcación modificada del original. [CLP by ExoAE](https://github.com/ExoAE/ScCompLangPack).
 > **Todos los créditos por el paquete de idioma original son para [ExoAE](https://github.com/ExoAE).**
 > Esta modificación se creó para proporcionar un formato de nombres compacto alternativo.
 
 
+```txt
+                            [Características añadidas]
 
-Este paquete de idioma modifica los nombres de los componentes para facilitar la detección y el seguimiento de las estadísticas.
+- Los contratos que otorgan planos tienen la lista de posibles recompensas
+  añadidas al final de la descripción.
+- Prefijos de advertencia para sustancias ilegales. **[!]**
+- "Hephaestanite" abreviado a "Heph".
+- Inestabilidad / Resistencia = abreviados a "Instab.:" / "Resist.:" debido a problemas 
+  de superposición de texto.
+- Nombres de componentes modificados para facilitar su lectura e información abreviada.
 
-También agrega una serie de mejoras visuales.
-
-* Los contratos que otorgan planos tienen la lista de posibles recompensas añadida al final de la descripción.
-* Prefijos de advertencia para sustancias ilegales. **[!]**
-* "Hephaestanite" abreviado a "Heph".
-* "Instability:" / "Resistance:" (Inestabilidad / Resistencia) abreviados a "Instab.:" / "Resist.:" debido a problemas de superposición de texto.
-
+```
 
 ⚠ Falta por añadir algunas listas de planos en las misiones.
 
----
 
 ## ⬇️ Descarga e instalación
 La descarga esta disponible en <ins>**Ingles**</ins> y en <ins>**Español**</ins>.
@@ -46,9 +45,6 @@ La descarga esta disponible en <ins>**Ingles**</ins> y en <ins>**Español**</ins
     - Guarda el archivo.
 3. Copia la carpeta `data` y el archivo (`user.cfg`) en la raíz de la carpeta LIVE de tu juego.
 4. Inicia el juego.
-
-
----
 
 ## 📋 LEYENDA COMPONENTES 📋
 
@@ -83,10 +79,6 @@ O accede a nuestro discord y indícanoslo directamente:
 * El uso de paquetes de idioma está permitido y previsto actualmente por Cloud Imperium Games. 
 [Spectrum](https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-community-localization-update)
 
-## 🌐 Soporte e información adicional
-
-
-
-### Agradecimientos:
+## ⭐ Agradecimientos ⭐
 - Cambios adicionales amablemente proporcionados por [MrKraken](https://github.com/MrKraken).
-- Planos (*Blueprints*) por [SCMDB](https://scmdb.net/).
+- Planos (**Blueprints**) por [SCMDB](https://scmdb.net/).
