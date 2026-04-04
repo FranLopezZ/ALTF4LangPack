@@ -22,6 +22,8 @@
 - Inestabilidad / Resistencia = abreviados a "Instab.:" / "Resist.:" debido a problemas 
   de superposición de texto.
 - Nombres de componentes modificados para facilitar su lectura e información abreviada.
+- Modificados nombres minerales para mejorar visual en minado.
+  - (Crudo) y (Mineral) => (C) - (M).
 
 ```
 
