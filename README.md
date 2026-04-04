@@ -83,3 +83,4 @@ O accede a nuestro discord y indícanoslo directamente:
 ## ⭐ Agradecimientos ⭐
 - Cambios adicionales amablemente proporcionados por [MrKraken](https://github.com/MrKraken).
 - Planos (**Blueprints**) por [SCMDB](https://scmdb.net/).
+- Traduccion proporcionada gracias a [Thord82](https://github.com/Thord82/Star_citizen_ES)
