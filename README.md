@@ -2,6 +2,8 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/FranLopezZ/ALTF4LangPack?logo=github)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/FranLopezZ/ALTF4LangPack/total?logo=rolldown&color=07f713&logoColor=white)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
+[![Descargas ESP](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FFranLopezZ%2FALTF4LangPack%2Fmain%2F.github%2Fbadges%2Fesp.json&logo=github&logoColor=white)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
+[![Descargas ENG](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FFranLopezZ%2FALTF4LangPack%2Fmain%2F.github%2Fbadges%2Feng.json&logo=github&logoColor=white)](https://github.com/FranLopezZ/ALTF4LangPack/releases)
 [![Discord](https://img.shields.io/discord/1481294088434221068?style=flat&logo=discord&label=Discord&color=%237289DA&logoColor=white)](https://discord.gg/vUeZwGswUF)
 
 > **📢 🇺🇸 IMPORTANT:** This is a modified fork of the original [CLP by ExoAE](https://github.com/ExoAE/ScCompLangPack).
